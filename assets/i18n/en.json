@@ -1,0 +1,115 @@
+{
+	"app_bar": {
+		"title": "Home page",
+		"chat": "Chat"
+	},
+	"toast": {
+		"check_internet": "please check your connection with the internet",
+		"please_signup": "please sign up first ",
+		"empty_fields":"please enter all fields ",
+		"pay_with_cash": "you will pay with cash ",
+		"pay_with_knet": "you will pay with knet "
+	},
+	"button": {
+		"cancel": "cancel",
+		"ok": "ok",
+		"go_order": "Get Order",
+		"change_language": "Change Language",
+		"approve_driver": "send"
+	},
+	"profile": {
+		"username": "user name "
+	},
+	"activity_wenshmap": {
+		"search": "search",
+		"title": "wensh",
+		"to": "To",
+		"choice_pay": "Selected ✓ ",
+		"choice_null_pay": "select",
+		"toast_two_true": "please choice one of the payment getway ",
+		"toast_empty_field": "please enter your notes here first ",
+		"note_field": "enter your notes here",
+		"pay_with": " pay with ",
+		"successfully_order_cash": "successfully order with cash payment",
+		"successfully_order_knet": "successfully order with knet payment",
+		"notes": "notes",
+		"location": "your location",
+		"order_now": "order now",
+		"show_toast_null_machine": "please add kind of machine first ",
+		"drawer_main": "main",
+		"drawer_language_change": "change",
+		"drawer_order": "my orders",
+		"drawer_notification": "my notifications",
+		"drawer_setting": "setting",
+		"drawer_callus": "call us",
+		"drawer_sure_signout": "are you sure to sign out !",
+		"drawer_signout": "sign out",
+		"new_order": "new order",
+		"price": "price : ",
+		"data_order": "order data",
+		"distance": "distance : ",
+		"KWD": "KWD",
+		"km": "km",
+		"online": "you are online",
+		"offline": "you are offline",
+		"order_response": "please add your price",
+		"sure_remove_myorder":"you are sure to cancel order",
+		"sure_finish_myorder":"you are sure to finish order",
+		"kuwait": "kuwait",
+		"sure_go_driver": "Confirmed",
+		"order_location": "Order location"
+	},
+	"activity_order": {
+		"details": "show details",
+		"locateorder": "location:",
+		"my_order": " my order",
+		"number": "number : ",
+		"order_finish": " order finished successfully "
+	},
+	"activity_admin_order": {
+		"call_to_approve": "call"
+	},
+	"login": {
+		"toast_wait": "please wait",
+		"app_bar": "log in",
+		"login": "log in",
+		"dont_have_anaccount": "don't have an account?",
+		"sing_up_now": "sign up now",
+		"successefuly": "Log in successfully",
+		"not_true": "please try again with true info",
+		"email": "your email ",
+		"password": "password..",
+		"show_pass": "show password"
+	},
+	"signup": {
+		"toast_wait": "please wait",
+		"app_bar": "sign up",
+		"signup": "sign up",
+		"successefuly": "sign up in successfully",
+		"not_true": "please try again with true info",
+		"username": "user name",
+		"phone": "phone",
+		"email": "your email ",
+		"password": "password..",
+		"show_pass": "show password",
+		"or": "or"
+	},
+	"language": {
+		"name": {
+			"en": "English",
+			"ar": "Arabic"
+		},
+		"selected_message": "Currently selected language is {language}",
+		"selection": {
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	},
+	"plural": {
+		"demo": {
+			"0": "Please start pushing the 'plus' button.",
+			"1": "You have pushed the button one time.",
+			"else": "You have pushed the button {{value}} times."
+		}
+	}
+}

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "543774479376",
+    "firebase_url": "https://moadaty-a3e65.firebaseio.com",
+    "project_id": "moadaty-a3e65",
+    "storage_bucket": "moadaty-a3e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543774479376:android:9c914844e27823cb8fe695",
+        "android_client_info": {
+          "package_name": "com.moadaty.moadatydriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543774479376-adqtl44l1c09n1ov40o4scav1o4gsgfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moadaty.moadatydriver",
+            "certificate_hash": "2451ab3e8f0fb85a0e01f10c75023cf53e75cb39"
+          }
+        },
+        {
+          "client_id": "543774479376-btvs44bnspcvrgqaejv7ah24t84jrftb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8YW--b3C2HGfiaP6n3l43dwQHGEPNTeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543774479376-btvs44bnspcvrgqaejv7ah24t84jrftb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543774479376-ekrt0l4lg1ek5be5hn4fnmi8lp275k6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moadaty.moadatyuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543774479376:android:0b7911cf9b4d03408fe695",
+        "android_client_info": {
+          "package_name": "com.moadaty.moadatyuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543774479376-q910djpgk3pvp0fjf08gq2evo9uvgdj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moadaty.moadatyuser",
+            "certificate_hash": "2451ab3e8f0fb85a0e01f10c75023cf53e75cb39"
+          }
+        },
+        {
+          "client_id": "543774479376-btvs44bnspcvrgqaejv7ah24t84jrftb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8YW--b3C2HGfiaP6n3l43dwQHGEPNTeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543774479376-btvs44bnspcvrgqaejv7ah24t84jrftb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "543774479376-ekrt0l4lg1ek5be5hn4fnmi8lp275k6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moadaty.moadatyuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

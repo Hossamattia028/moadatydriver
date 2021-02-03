@@ -1,0 +1,115 @@
+{
+  "app_bar": {
+    "title": "الرئيسية",
+    "chat": "محادثة"
+  },
+  "toast": {
+    "check_internet": "من فضلك افحص الإتصال بالإنترنت أولا",
+    "please_signup": "من فضلك قم بالتسجيل أولا ",
+    "empty_fields":"من فضلك قم بادخال جميع الحقول ",
+    "pay_with_cash": " سوف يتم الدفع كاش",
+    "pay_with_knet": " سوف يتم الدفع من خلال كى نيت"
+  },
+  "button": {
+    "cancel": "إلغاء",
+    "ok": "تأكيد",
+    "go_order": "تنفيذ الطلب",
+    "change_language": "تغير اللغة",
+    "approve_driver": "إرسال"
+  },
+  "profile": {
+    "username": "اسم السائق "
+  },
+  "activity_wenshmap": {
+    "search": "بحث ..",
+    "title": "ونش",
+    "to": "إلى",
+    "pay_with": " الدفع من خلال ",
+    "successfully_order_cash": "تم إرسال الطلب بنجاح سوف يتم التوصيل ",
+    "successfully_order_knet": "تم إرسال الطلب بنجاح سوف يتم التوصيل ",
+    "choice_pay": "تم الاختيار ✓ ",
+    "choice_null_pay": "قم بالاختيار",
+    "toast_two_true": "من فضلك اختر وسيلة دفع واحده",
+    "toast_empty_field": "قم باضافة ملاحظاتك العامة هنا أولا ",
+    "notes": "ملاحظات",
+    "note_field": "قم باضافة ملاحظاتك العامة هنا",
+    "location": "موقعك",
+    "order_now": "طلب الأن",
+    "show_toast_null_machine": "من فضلك اضف نوع المعدة أولا ",
+    "drawer_main": "الرئيسية",
+    "drawer_language_change": "تغير",
+    "drawer_order": "طلباتى",
+    "drawer_notification": "إشعاراتى",
+    "drawer_setting": "الإعدادات",
+    "drawer_callus": "إتصل بنا",
+    "drawer_sure_signout": " تأكيد تسجيل الخروج ",
+    "drawer_signout": "تسجيل الخروج",
+    "new_order": "طلب جديد",
+    "price": "السعر : ",
+    "data_order": "بيانات الطلب",
+    "distance": "المسافة : ",
+    "KWD": "دينار",
+    "km": "كيلو",
+    "online": "نشط",
+    "offline": "غير متاح الأن",
+    "order_response": "من فضلك اضف السعر  ",
+    "sure_remove_myorder":"هل أنت متاكد من إلغاء الطلب",
+    "sure_finish_myorder":"هل أنت متاكد من إنهاء الطلب",
+    "kuwait": "الكويت",
+    "sure_go_driver": "تم التأكيد",
+    "order_location": "موقع الطلب"
+  },
+  "login": {
+    "toast_wait": "انتظر من فضلك",
+    "app_bar": "تسجيل الدخول",
+    "login": "دخول",
+    "dont_have_anaccount": "ليس لديك حساب؟",
+    "sing_up_now": "سجل الأن",
+    "successefuly": "تم تسجيل الدخول بنجاح",
+    "not_true": "حاول مره أخرى مع التحقق من البيانات",
+    "email": "البريد الإلكترونى ",
+    "password": "كلمة المرور ",
+    "show_pass": "إظهار كلمة المرور "
+  },
+  "signup": {
+    "toast_wait": "انتظر من فضلك",
+    "app_bar": "تسجيل مستخدم جديد",
+    "signup": " تسجيل الدخول",
+    "successefuly": "تم تسجيل الدخول بنجاح",
+    "not_true": "حاول مره أخرى مع التحقق من البيانات",
+    "username": "اسم المستخدم",
+    "phone": "الهاتف",
+    "email": "البريد الإلكترونى ",
+    "password": "كلمة المرور ",
+    "show_pass": "إظهار كلمة المرور ",
+    "or": "أو تسجيل ب"
+  },
+  "activity_order": {
+    "details": "عرض التفاصيل",
+    "locateorder": "العنوان:",
+    "my_order": " طلباتى ",
+    "number": "العدد :",
+    "order_finish": " تم تأكيد الاوردر بنجاح "
+  },
+  "activity_admin_order": {
+    "call_to_approve": "اتصال"
+  },
+  "language": {
+    "name": {
+      "en": "English",
+      "ar": "Arabic"
+    },
+    "selected_message": "{language} اللغة الحالة هى",
+    "selection": {
+      "message": "أختر اللغة التى تريدها",
+      "title": "تحديد اللغة"
+    }
+  },
+  "plural": {
+    "demo": {
+      "0": "Please start pushing the 'plus' button.",
+      "1": "You have pushed the button one time.",
+      "else": "You have pushed the button {{value}} times."
+    }
+  }
+}

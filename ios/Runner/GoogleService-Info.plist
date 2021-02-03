@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543774479376-2dm6bkmgl67sk0fs022ak73030ap9s60.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543774479376-2dm6bkmgl67sk0fs022ak73030ap9s60</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>543774479376-q910djpgk3pvp0fjf08gq2evo9uvgdj0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBn-9_0o93_1wRUrIR36zKVMSiMPJbpZ0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543774479376</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.moadaty.moadatydriver</string>
+	<key>PROJECT_ID</key>
+	<string>moadaty-a3e65</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moadaty-a3e65.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543774479376:ios:7a60d3cbf7ec94a08fe695</string>
+	<key>DATABASE_URL</key>
+	<string>https://moadaty-a3e65.firebaseio.com</string>
+</dict>
+</plist>
