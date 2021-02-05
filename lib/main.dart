@@ -72,35 +72,35 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
         orderdrivelist.clear();
         for (var indvidualkey in KEYS) {
           orderdata posts = new orderdata(
-            DATA[indvidualkey]['username'],
-            DATA[indvidualkey]['userphone'],
-            DATA[indvidualkey]['drivername'],
-            DATA[indvidualkey]['driverphone'],
-            DATA[indvidualkey]['machinename'],
-            DATA[indvidualkey]['machinenumber'],
-            DATA[indvidualkey]['date'],
-            DATA[indvidualkey]['complete'],
-            DATA[indvidualkey]['note'],
-            DATA[indvidualkey]['distancewithkilometer'],
-            DATA[indvidualkey]['distancewitmeter'],
-            DATA[indvidualkey]['locatedriver'],
-            DATA[indvidualkey]['locateuser'],
-            DATA[indvidualkey]['locateorder'],
-            DATA[indvidualkey]['kindoforder'],
-            DATA[indvidualkey]['paykind'],
-            DATA[indvidualkey]['authuiduser'],
-            DATA[indvidualkey]['authuiddriverone'],
-            DATA[indvidualkey]['authuiddrivertwo'],
-            DATA[indvidualkey]['authuiddriverthree'],
-            DATA[indvidualkey]['authuiddriverfour'],
-            DATA[indvidualkey]['latorderlocate'],
-            DATA[indvidualkey]['lonorderlocate'],
-            DATA[indvidualkey]['latuserlocate'],
-            DATA[indvidualkey]['lonuserlocate'],
-            DATA[indvidualkey]['uploadid'],
-            DATA[indvidualkey]['helpone'],
-            DATA[indvidualkey]['helptwo'],
-            DATA[indvidualkey]['helpthree'],
+            DATA[indvidualkey]['username'].toString(),
+            DATA[indvidualkey]['userphone'].toString(),
+            DATA[indvidualkey]['drivername'].toString(),
+            DATA[indvidualkey]['driverphone'].toString(),
+            DATA[indvidualkey]['machinename'].toString(),
+            DATA[indvidualkey]['machinenumber'].toString(),
+            DATA[indvidualkey]['date'].toString(),
+            DATA[indvidualkey]['complete'].toString(),
+            DATA[indvidualkey]['note'].toString(),
+            DATA[indvidualkey]['distancewithkilometer'].toString(),
+            DATA[indvidualkey]['distancewitmeter'].toString(),
+            DATA[indvidualkey]['locatedriver'].toString(),
+            DATA[indvidualkey]['locateuser'].toString(),
+            DATA[indvidualkey]['locateorder'].toString(),
+            DATA[indvidualkey]['kindoforder'].toString(),
+            DATA[indvidualkey]['paykind'].toString(),
+            DATA[indvidualkey]['authuiduser'].toString(),
+            DATA[indvidualkey]['authuiddriverone'].toString(),
+            DATA[indvidualkey]['authuiddrivertwo'].toString(),
+            DATA[indvidualkey]['authuiddriverthree'].toString(),
+            DATA[indvidualkey]['authuiddriverfour'].toString(),
+            DATA[indvidualkey]['latorderlocate'].toString(),
+            DATA[indvidualkey]['lonorderlocate'].toString(),
+            DATA[indvidualkey]['latuserlocate'].toString(),
+            DATA[indvidualkey]['lonuserlocate'].toString(),
+            DATA[indvidualkey]['uploadid'].toString(),
+            DATA[indvidualkey]['helpone'].toString(),
+            DATA[indvidualkey]['helptwo'].toString(),
+            DATA[indvidualkey]['helpthree'].toString(),
           );
           user().then((user) {
             if( DATA[indvidualkey]['authuiddriverone'].toString().split(":").first == user.uid.toString()
@@ -143,13 +143,6 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
     Timer(Duration(seconds: 2),(){
       user();
     });
-    // user().then((userr) {
-    //   if(userr.email.toString()=='adminxerooo@gmail.com'||userr.email.toString()=="adminhossam@gmail.com"){
-    //     setState(() {
-    //       checkAdmin = true;
-    //     });
-    //     }
-    //   });
     getLocation(Constants.latitude, Constants.longitude);
     super.initState();
   }
